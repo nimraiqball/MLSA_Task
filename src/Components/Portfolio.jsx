@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/moon-8579189_1280.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Moon at the Biggest";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My Personal Website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Where creativity meets innovation. Explore my diverse portfolio, captivating blog posts, and professional journey all in one place.",
+    url: "https://nimraiqball.github.io/Nimra.github.io/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Athlete Apparel Store",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Step up your game with our athlete apparel store, where style meets performance. Discover top-quality gear designed to elevate your performance and style.",
+    url: "https://nimraiqball.github.io/Ecommerce-AthStore-Athlete-Apparel-Store/",
   },
   {
-    title: "My Resume Site",
+    title: "Snake Game",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "The classic Snake game brings retro fun to your screen! Guide your snake to grow longer while avoiding obstacles. How long can you survive?",
+    url: "https://github.com/nimraiqball/Snake-Game-in-C-plus-plus.git",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Hangman Game",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Challenge your word skills with Hangman! Guess letters to uncover the hidden word before it's too late. How many words can you solve?",
+    url: "https://github.com/nimraiqball/Hangman-in-c-plus-plus.git",
   },
 ];
 
