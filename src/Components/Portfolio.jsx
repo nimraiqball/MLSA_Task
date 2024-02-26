@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/moon-8579189_1280.jpeg";
+import image from "../images/moon-8579189_1280.jpg";
 
 const imageAltText = "Moon at the Biggest";
 
